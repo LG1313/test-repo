@@ -1,3 +1,1 @@
-hi
-# practicerepo
-## study git
+Git is a version controlling tool.
